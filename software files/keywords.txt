@@ -1,0 +1,12 @@
+# Class name — KEYWORD1
+DRV8834	KEYWORD1
+
+# Methods — KEYWORD2
+begin	KEYWORD2
+bridgeEnables	KEYWORD2
+motorFloat	KEYWORD2
+brake	KEYWORD2
+turnForward	KEYWORD2
+turnReverse	KEYWORD2
+
+# Constants — LITERAL1
